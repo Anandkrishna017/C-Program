@@ -4,8 +4,10 @@
 void main()
 {
     int x, y;
+
     printf("\nEnter Value of x :");
     scanf("%d", &x);
+
     printf("\nEnter Value of y :");
     scanf("%d", &y);
 
